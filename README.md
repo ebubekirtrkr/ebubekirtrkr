@@ -3,7 +3,7 @@
 
 I am currently a student at Ankara University. My department is Computer Engineering. I'm interested in Reverse Engineering and Android Security. Can't say I'm perfect, but I'm improving myself.
 
-:notebook: ***My website:***
+:pencil2: ***My blog page:***
 - https://ebubekirtrkr.github.io
 
 
