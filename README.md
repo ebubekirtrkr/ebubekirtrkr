@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 
-I am currently a student at Ankara University. My department is Computer Engineering. I'm interested in Reverse Engineering and Android Security. Can't say I'm perfect, but I'm improving myself.
+I am currently student at Ankara University. My department is Computer Engineering. I'm interested in Reverse Engineering and Android Security. Can't say I'm perfect, but I'm improving myself.
 
 :pencil2: ***My blog page:***
 - https://ebubekirtrkr.github.io
+
+:pencil2: ***Also check out***
+- https://www.aucyberclub.org/
 
 
 <p align="center">
