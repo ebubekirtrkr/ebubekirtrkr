@@ -7,7 +7,7 @@ I am currently student at Ankara University. My department is Computer Engineeri
 - https://ebubekirtrkr.github.io
 
 :pencil2: ***Also check out:***
-- https://www.aucyberclub.org/
+- https://www.aucyberclub.org
 
 
 <p align="center">
