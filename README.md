@@ -17,9 +17,6 @@ I am currently student at Ankara University. My department is Computer Engineeri
   <a href="https://github.com/ebubekirtrkr?tab=followers">
     <img src="https://img.shields.io/github/followers/ebubekirtrkr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://discord.gg/HEzP5Wf">
-    <img src="https://img.shields.io/discord/695980914991169536?logo=discord&style=for-the-badge" />
-  </a>
 </p>
 
 
